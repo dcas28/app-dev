@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-<h1 style = "color:red"> My Favorite Series/Movies </h1>
+<h1> My Favorite Series/Movies </h1>
 <ol>
   <li> Series
     <ol>
