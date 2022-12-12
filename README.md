@@ -1,19 +1,15 @@
 # app-dev
 My first repository
-<h1> My Favorite Series/Movies </h1>
-<ol>
-  <li> Series
-    <ol>
-      <li>Money Heist</li>
-      <li>Wednesday</li>
-      <li>Demon Slayer</li>
-    </ol>
-  </li>
-  <li> Movies
-      <ol>
-        <li>Marvel Thor Ragnarok</li>
-        <li>Marvel Doctor Strange</li>
-        <li>Marvel DOctor Strange Multiverse Madness</li>
-      </ol>
-  </li>
-</ol
+
+> 06 Task Performance
+> Casuyon, Edrean P.
+
+# My Favorite Series/Movies
+1. Series
+  1. Money Heist
+  2. Wednesday
+  3. Demon Slayer
+2. Movies
+  1. Marvel Thor Ragnarok
+  2. Marvel Doctor Strange
+  3. Marvel Doctor Strange Multiverse Madness
